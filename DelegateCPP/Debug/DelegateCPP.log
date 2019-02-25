@@ -1,0 +1,4 @@
+﻿  DelegateCPP.cpp
+c:\users\m.kuzhbanov\source\repos\delegatecpp\delegatecpp\delegatecpp.cpp(271): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\m.kuzhbanov\source\repos\delegatecpp\delegatecpp\delegatecpp.cpp(308): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  DelegateCPP.vcxproj -> C:\Users\m.kuzhbanov\source\repos\DelegateCPP\Debug\DelegateCPP.exe
